@@ -1,0 +1,15 @@
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/Week_9.csproj.AssemblyReference.cache
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/Week_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/Week_9.AssemblyInfoInputs.cache
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/Week_9.AssemblyInfo.cs
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/Week_9.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Projects/Week_9/Week_9/bin/Debug/net7.0/Week_9
+/Users/mihkelkask/Projects/Week_9/Week_9/bin/Debug/net7.0/Week_9.deps.json
+/Users/mihkelkask/Projects/Week_9/Week_9/bin/Debug/net7.0/Week_9.runtimeconfig.json
+/Users/mihkelkask/Projects/Week_9/Week_9/bin/Debug/net7.0/Week_9.dll
+/Users/mihkelkask/Projects/Week_9/Week_9/bin/Debug/net7.0/Week_9.pdb
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/Week_9.dll
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/refint/Week_9.dll
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/Week_9.pdb
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/Week_9.genruntimeconfig.cache
+/Users/mihkelkask/Projects/Week_9/Week_9/obj/Debug/net7.0/ref/Week_9.dll
