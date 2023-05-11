@@ -1,4 +1,4 @@
-﻿string folderPath = @"/Users/mihkelkask/Desktop/RKE129/VisualStudio/Data";
+﻿string folderPath = @"/Users/joahim/Desktop/RKE129/VisualStudio/Data";
 string fileName = "data1.txt";
 string filePath = Path.Combine(folderPath, fileName);
 List<string> myShoppingList = new List<string>();
